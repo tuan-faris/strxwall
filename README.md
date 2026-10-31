@@ -1,1 +1,1 @@
-# STRXWall Arcadyan V1
+# strxwallv1
